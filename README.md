@@ -1,4 +1,6 @@
 # MasterMind
+MasterMind Game in which the program had to guess an ordered four non-repeated digits with minimum number of guesses
+
 The java file can be run using the following command for running the java file on command line:-
 On the command line "cd" to the directory containing the java file
 then,
